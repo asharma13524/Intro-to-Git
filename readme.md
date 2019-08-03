@@ -1,5 +1,1 @@
-#working directory
-
-#staging directory
-
-#git repository
+Practice working with Git and Github
